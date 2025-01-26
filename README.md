@@ -1,2 +1,1 @@
-# SynHub
-Universal Roblox Hub
+
